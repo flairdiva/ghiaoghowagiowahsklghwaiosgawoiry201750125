@@ -1,8 +1,8 @@
 {
-  Active:false
-  username:"test"
-  USERID:6912076126912612677654
-  banned:false
-  banReason:""
-  Notes:""
+  Active:false,
+  username:"test",
+  USERID:6912076126912612677654,
+  banned:false,
+  banReason:"",
+  Notes:"",
 }
